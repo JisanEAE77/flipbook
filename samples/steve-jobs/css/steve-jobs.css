@@ -35,8 +35,8 @@ body, ul, table, form{
 
 #canvas{
 	margin: auto auto;
-	width: 960px;
-	height: 600px;
+	width: 1000px;
+	height: 800px;
 	/* margin: 100px auto; */
 }
 
@@ -46,8 +46,8 @@ body, ul, table, form{
 }
 
 .sj-book{
-	width:960px;
-	height:600px;
+	width:1000px;
+	height:800px;
 }
 
 .sj-book h1{
@@ -163,10 +163,10 @@ body, ul, table, form{
 {
 	background-color:white;
 	background-image:url(https://www.esotericcuriosa.com/wp-content/uploads/2021/03/bookcove-final-1.jpg) !important;
-	background-size: 105%;
+	/* background-size: 100%; */
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: -6px !important;
+	/* background-position: -6px !important; */
 }
 
 .sj-book .p14 {
@@ -187,7 +187,7 @@ body, ul, table, form{
 
 .sj-book .p1 .side{
 	width:5px;
-	height:600px;
+	height:800px;
 	position:absolute;
 	top:0;
 	left:475px;
@@ -213,7 +213,8 @@ body, ul, table, form{
 	position:absolute;
 	top:7px;
 	width:16px;
-	height:590px;
+	height:790px;
+	
 }
 
 .sj-book .front-side .depth{
@@ -241,8 +242,8 @@ body, ul, table, form{
 }
 
 .sj-book .hard{
-	width:480px;
-	height:600px;
+	width:500px;
+	height:800px;
 	background-color:white;
 	-webkit-box-shadow:none;
 	box-shadow:none;
@@ -254,8 +255,8 @@ body, ul, table, form{
 }
 
 .sj-book .own-size{
-	width:460px;
-	height:582px;
+	width:480px;
+	height:782px;
 	background-color:white;
 	overflow:hidden;
 }
@@ -265,7 +266,7 @@ body, ul, table, form{
 	background-color:linear-gradient(left, #fff 95%, #dadada 100%);
 	background-image: url(https://www.esotericcuriosa.com/wp-content/uploads/2021/03/bg6c.png?id=2194);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 500px 800px;
 	background-position: center center;
 	/* padding: 25px; */
 }
@@ -275,7 +276,7 @@ body, ul, table, form{
 	background-color:linear-gradient(right, #fff 95%, #cacaca 100%);
 	background-image: url(https://www.esotericcuriosa.com/wp-content/uploads/2021/03/bg6c.png?id=2194);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: 500px 800px;
 	background-position: center center;
 }
 
